@@ -17,11 +17,10 @@
       
 **Moqui Framework:**
   -  Moqui-Training
-      -  Setting up of moqui framework
-      -  MySQL setup and database connectivity
-      -  Understanding the framework and creating a component with entities and services
+      -  setting up of moqui framework & database connectivity (MySQL)
+      -  creating a component with entities and services
       -  load data using xml, json and csv files to database
-      -  Creating a basic REST-API for an e-commerce software
+      -  creating a REST-API for an e-commerce software
   
   -  Customer Finder
       -  moqui component using screen, services and entities
@@ -38,7 +37,7 @@
    
   -  Product Manager
       -  moqui component using screen and entities
-      -  used moqui screens to find, update, create and delete customer
+      -  used moqui screens to find, update, create and delete products
 
 **OFBiz Framework:**
   -  OFBiz setup
