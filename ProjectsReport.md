@@ -50,13 +50,8 @@
 
 
 **Omnichannel Management System:**
-  -  OMS setup
-      -  setting up the oms and database connectivity with MySQL
-      -  explored the framework application learned using partymgr
-      -  learned to use webtools to create, read, update and delete entities
-  
-  -  Order Management
-      -  created ofbiz plugin using screen, services(xml, ftl) and entities
+   -  setting up the oms, solr and database connectivity(MySQL)
+   -  explored the oms software and it's business process
    
 
 **SQL Assignments:**
