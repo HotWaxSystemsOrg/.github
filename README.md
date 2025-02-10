@@ -54,5 +54,5 @@ To get started with **HotWaxSystemsOrg**, follow these instructions:
 Make sure you have the following installed:
 - [Java 11+](https://adoptopenjdk.net/)
 - [Apache OFBiz](https://adoptopenjdk.net/)
-- [Moqui]([https://adoptopenjdk.net/](https://www.moqui.org/framework.html))
+- [Moqui](https://www.moqui.org/framework.html)
 - [MySQL](https://www.mysql.com/)
