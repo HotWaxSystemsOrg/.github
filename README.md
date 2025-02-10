@@ -1,7 +1,7 @@
 # HotWaxSystemsOrg
 
 Welcome to **Hotwax Systems Org** page!
-This project is developed by **<a href="https://github.com/Ani-D22">Aniket Date</a>** and focuses on [the learning related to building innovative and efficient solutions for enterprise software development, System Design, Data Management, Open-Source contribution.]
+This project is developed by **<a href="https://github.com/Ani-D22">Aniket Date</a>** and focuses on the learning related to building innovative and efficient solutions for enterprise software development, System Design, Data Management, Open-Source contribution.
 
 ---
 
