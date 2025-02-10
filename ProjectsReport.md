@@ -25,14 +25,9 @@
   -  Customer Finder
       -  moqui component using screen, services and entities
       -  used groovy script for service actions
-   
-  -  Customer Finder
-      -  moqui component using screen, services and entities
-      -  used groovy script for service actions to create, find, update and delete a customer
-   
   -  Relationship Manager
       -  moqui component using screen and entities
-      -  used moqui screens to create find, update and delete of a party and their contact mechanism
+      -  used moqui screens to perform CRUD for party and contact mech entities
 
    
   -  Product Manager
